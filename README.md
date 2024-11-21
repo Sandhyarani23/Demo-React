@@ -1,1 +1,1 @@
-Its Just code of React to give seminar and explain ﻿# Demo-React
+Its Just code of React to give seminar and explain to class  ﻿# Demo-React
