@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.statevalue{
+    height: 50px;
+    width:60px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
